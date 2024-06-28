@@ -48,7 +48,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
 }
 
 .nav-link:hover,
@@ -70,8 +70,8 @@ a {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07%;
-  letter-spacing: 0.02em;
+  line-height: 1.07;
+  letter-spacing: 0.02;
   text-align: center;
   color: #fff;
   background-color: #2e2f42;
@@ -81,11 +81,11 @@ a {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5%;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
-  cursor: pionter;
+  cursor: pointer;
 }
 
 .button:hover,
@@ -133,6 +133,7 @@ h3 {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .service-titles {
